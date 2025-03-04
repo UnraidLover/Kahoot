@@ -24,4 +24,4 @@ Once the program is install open a CMD if on windows and do: CD C:\Users\Your_Na
 
 Once navigated inside the correct download location run the follow in the same CMD: python main.py
 
-Emjoy!
+Enjoy!
