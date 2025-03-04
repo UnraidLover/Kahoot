@@ -11,3 +11,9 @@ Chrome Driver
 # PYTHON DEPENDENCIES
 
 Selenium
+
+# HOW TO INSTALL SELENIUM
+
+If pythons installed run:
+
+pip install selenium
