@@ -18,7 +18,7 @@ If pythons installed run:
 
 pip install selenium
 
-#HOW TO RUN
+# HOW TO RUN
 
 Once the program is install open a CMD if on windows and do: CD C:\Users\Your_Name\Your_Download_Location\"kahoot spammer"
 
